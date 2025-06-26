@@ -13,7 +13,7 @@ I'm passionate about low-level programming, reverse engineering, and building sy
 ### Contact me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/lander-gallastegi-mu%C3%B1oa-b93791262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lander-gallastegi-muñoa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lander-gallastegi-mu%C3%B1oa-b93791262/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lander-gallastegi-muñoa" height="30" width="40" /></a>
 </p>
 
 ### Skills
